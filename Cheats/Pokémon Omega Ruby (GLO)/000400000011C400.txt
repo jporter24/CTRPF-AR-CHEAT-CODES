@@ -1,4 +1,5 @@
-
+masterballs
+08C6EC70 03E70001
 
 [Max/Inf HP v1.4]
 481FB58C 08200000
